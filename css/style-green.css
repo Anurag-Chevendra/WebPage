@@ -1,7 +1,7 @@
 
 
 body {
-  background-color: #f5f5f5;
+  background-color: #252323a6;;
   color: #4e4e4e;
 }
 
@@ -12,6 +12,7 @@ h4,
 h5,
 h6 {
   color: #1e1e1e;
+   text-decoration: underline;
 }
 
 a {
@@ -78,6 +79,7 @@ a:hover {
   background-attachment: fixed;
   background-size: cover;
   background-position: center center;
+  
 }
 
 .overlay-mf {
@@ -197,7 +199,7 @@ a:hover {
 }
 
 .socials ul li {
-  display: inline-block;
+  display: block;
 }
 
 .socials .ico-circle {
